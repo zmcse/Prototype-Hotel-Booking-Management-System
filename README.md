@@ -20,15 +20,18 @@ This is a prototype for a Hotel Booking Management System designed in Figma to s
   - Admins can generate reports.
 
 ## Demo Video
+
+### User Page
 <p align="center">
-  <h1>User Page</h1>
   <a href="https://www.youtube.com/watch?v=dFsP_7if-Ac">
-    <img src="https://img.youtube.com/vi/dFsP_7if-Ac/0.jpg" alt="Demo Video" width="50%">
+    <img src="https://img.youtube.com/vi/dFsP_7if-Ac/0.jpg" alt="User Page Video" width="50%">
   </a>
-  <br>
-    <h1>Admin Page</h1>
+</p>
+
+### Admin Page
+<p align="center">
   <a href="https://www.youtube.com/watch?v=3vx-a0bBrRE">
-    <img src="https://img.youtube.com/vi/3vx-a0bBrRE/0.jpg" alt="Demo Video" width="50%">
+    <img src="https://img.youtube.com/vi/3vx-a0bBrRE/0.jpg" alt="Admin Page Video" width="50%">
   </a>
 </p>
 
