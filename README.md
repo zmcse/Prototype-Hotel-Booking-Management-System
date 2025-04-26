@@ -28,11 +28,4 @@ This is a prototype for a Hotel Booking Management System designed in Figma to s
   </a>
 </p>
 
-### Admin Page
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=3vx-a0bBrRE">
-    <img src="https://img.youtube.com/vi/3vx-a0bBrRE/0.jpg" alt="Admin Page Video" width="50%">
-  </a>
-</p>
-
 Click the image above to watch the full demo video!
