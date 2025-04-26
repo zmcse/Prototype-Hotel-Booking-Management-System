@@ -1,2 +1,20 @@
 # Prototype-Hotel-Booking-Management-System
 This is a prototype for a Hotel Booking Management System designed in Figma to simulate core functionalities of a real-world hotel reservation platform. It allows users to create and manage hotel room bookings efficiently through a simple and user-friendly interface.
+
+
+## Features
+
+- **Guest Registration and Login**
+  - Guests can create an account and log in.
+  - Registered guests can book rooms and view their booking history.
+
+- **Room Browsing**
+  - Guests can view available rooms with details like room type, price, and capacity.
+
+- **Booking Management**
+  - Guests can book, cancel, and view their reservation for rooms, event halls, dining, and activities.
+
+- **Admin Functions**
+  - Admins can add, edit, and remove room listings.
+  - Admins can view and manage all guest bookings.
+  - Admins can generate reports.
