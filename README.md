@@ -18,3 +18,13 @@ This is a prototype for a Hotel Booking Management System designed in Figma to s
   - Admins can add, edit, and remove room listings.
   - Admins can view and manage all guest bookings.
   - Admins can generate reports.
+
+## Demo Video
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=dFsP_7if-Ac">
+    <img src="https://img.youtube.com/vi/dFsP_7if-Ac/0.jpg" alt="Demo Video" width="50%">
+  </a>
+</p>
+
+Click the image above to watch the full demo video!
